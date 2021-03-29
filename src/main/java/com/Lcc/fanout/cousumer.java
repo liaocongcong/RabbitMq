@@ -6,7 +6,7 @@ import com.rabbitmq.client.*;
 import java.io.IOException;
 
 /**
- * @Description:
+ * @Description: 第一次
  * @Author: liaocongcong
  * @Date: 2021/3/28 16:25
  */

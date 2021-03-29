@@ -12,7 +12,7 @@ import java.io.IOException;
  */
 public class cousumer2 {
     public static void main(String[] args) throws IOException {
-        //test  测试环境调试
+        //test  测试环境调试 提交本地开发
         Connection connection = ConnRabbitUtils.getConnection();
         Channel channel = connection.createChannel();
         
